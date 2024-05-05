@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    margin: 10px;
+    padding: 0;
+}
+.imgs{
+    display: flex;
+    margin: 10px;
+
+}
+.single{
+    margin: 15px;
+}
+.single img{
+    width: 300px;
+    border-radius: 12px;
+}
+.top{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.sidenav{
+    background-color: green;
+    padding: 10px;
+
+}
+.sidenav a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.sidenav a:hover{
+    color: black;
+}
